@@ -1,0 +1,2234 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This file has been generated with the OpenXES library. It conforms -->
+<!-- to the XML serialization of the XES standard for log storage and -->
+<!-- management. -->
+<!-- XES standard version: 1.0 -->
+<!-- OpenXES library version: 1.0RC7 -->
+<!-- OpenXES is available from http://www.openxes.org/ -->
+<log xes.version="1.0" xes.features="nested-attributes" openxes.version="1.0RC7">
+	<string key="lifecycle:model" value="standard"/>
+	<string key="creator" value="Fluxicon Disco"/>
+	<string key="library" value="Fluxicon Octane"/>
+	<string key="concept:name" value="Anonymous log imported from HospitalLogFromAccess_dcc_noLC.xes"/>
+		<trace>
+		<string key="concept:name" value="0"/>
+		<string key="variant" value="Variant 48"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="org:resource" value="artificial"/>
+			<string key="concept:name" value="START"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2005-01-03T08:59:59.999+01:00"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="First outpatient consultation"/>
+			<date key="time:timestamp" value="2005-01-03T08:59:59.999+01:00"/>
+			<string key="ACTIVITY" value="First outpatient consultation"/>
+			<string key="ACTIVITYCODE" value="26.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="administrative fee - the first pol"/>
+			<date key="time:timestamp" value="2005-01-03T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="administrative fee - the first pol"/>
+			<string key="ACTIVITYCODE" value="27.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="verlosk--gynaec- short-out card cost"/>
+			<date key="time:timestamp" value="2005-01-05T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="verlosk--gynaec- short-out card cost"/>
+			<string key="ACTIVITYCODE" value="74.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="ultrasound - internal genitals"/>
+			<date key="time:timestamp" value="2005-01-05T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="ultrasound - internal genitals"/>
+			<string key="ACTIVITYCODE" value="77.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="First outpatient consultation"/>
+			<date key="time:timestamp" value="2005-01-05T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="First outpatient consultation"/>
+			<string key="ACTIVITYCODE" value="26.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="administrative fee - the first pol"/>
+			<date key="time:timestamp" value="2005-01-05T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="administrative fee - the first pol"/>
+			<string key="ACTIVITYCODE" value="27.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<date key="time:timestamp" value="2005-01-07T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<string key="ACTIVITYCODE" value="28.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190021 clinical admission A002"/>
+			<date key="time:timestamp" value="2005-01-07T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190021 clinical admission A002"/>
+			<string key="ACTIVITYCODE" value="29.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<date key="time:timestamp" value="2005-01-08T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<string key="ACTIVITYCODE" value="28.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="Brachytherapy - interstitial - intensity"/>
+			<date key="time:timestamp" value="2005-01-08T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="Brachytherapy - interstitial - intensity"/>
+			<string key="ACTIVITYCODE" value="73.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190205 Class 3b A205"/>
+			<date key="time:timestamp" value="2005-01-08T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190205 Class 3b A205"/>
+			<string key="ACTIVITYCODE" value="30.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<string key="ACTIVITYCODE" value="28.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190205 Class 3b A205"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190205 Class 3b A205"/>
+			<string key="ACTIVITYCODE" value="30.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-10T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="bacteriological examination of breeding nie"/>
+			<date key="time:timestamp" value="2005-01-10T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="bacteriological examination of breeding nie"/>
+			<string key="ACTIVITYCODE" value="52.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="resistance measurements - 5 provisions"/>
+			<date key="time:timestamp" value="2005-01-10T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="resistance measurements - 5 provisions"/>
+			<string key="ACTIVITYCODE" value="62.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="hepatitis B surface antigen confirmation"/>
+			<date key="time:timestamp" value="2005-01-10T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="hepatitis B surface antigen confirmation"/>
+			<string key="ACTIVITYCODE" value="63.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="order rate"/>
+			<date key="time:timestamp" value="2005-01-10T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="order rate"/>
+			<string key="ACTIVITYCODE" value="24.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-15T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-15T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="urea"/>
+			<date key="time:timestamp" value="2005-01-15T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="urea"/>
+			<string key="ACTIVITYCODE" value="5.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="hemoglobin photoelectric"/>
+			<date key="time:timestamp" value="2005-01-15T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="hemoglobin photoelectric"/>
+			<string key="ACTIVITYCODE" value="6.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="creatinine"/>
+			<date key="time:timestamp" value="2005-01-15T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="creatinine"/>
+			<string key="ACTIVITYCODE" value="7.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="sodium flame photometry"/>
+			<date key="time:timestamp" value="2005-01-15T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="sodium flame photometry"/>
+			<string key="ACTIVITYCODE" value="9.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="potassium potentiometrically"/>
+			<date key="time:timestamp" value="2005-01-15T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="potassium potentiometrically"/>
+			<string key="ACTIVITYCODE" value="10.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="leukocyte count electronic"/>
+			<date key="time:timestamp" value="2005-01-15T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="leukocyte count electronic"/>
+			<string key="ACTIVITYCODE" value="16.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="platelet count - Electronic"/>
+			<date key="time:timestamp" value="2005-01-15T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="platelet count - Electronic"/>
+			<string key="ACTIVITYCODE" value="17.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="order rate"/>
+			<date key="time:timestamp" value="2005-01-15T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="order rate"/>
+			<string key="ACTIVITYCODE" value="24.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<date key="time:timestamp" value="2005-01-17T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<string key="ACTIVITYCODE" value="28.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-17T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-17T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="bacteriological examination of breeding nie"/>
+			<date key="time:timestamp" value="2005-01-17T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="bacteriological examination of breeding nie"/>
+			<string key="ACTIVITYCODE" value="52.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="bacteriological examination of breeding nie"/>
+			<date key="time:timestamp" value="2005-01-17T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="bacteriological examination of breeding nie"/>
+			<string key="ACTIVITYCODE" value="52.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="bacteriological examination of breeding nie"/>
+			<date key="time:timestamp" value="2005-01-17T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="bacteriological examination of breeding nie"/>
+			<string key="ACTIVITYCODE" value="52.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="resistance measurements - 5 provisions"/>
+			<date key="time:timestamp" value="2005-01-17T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="resistance measurements - 5 provisions"/>
+			<string key="ACTIVITYCODE" value="62.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="resistance measurements - 5 provisions"/>
+			<date key="time:timestamp" value="2005-01-17T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="resistance measurements - 5 provisions"/>
+			<string key="ACTIVITYCODE" value="62.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="hepatitis B surface antigen confirmation"/>
+			<date key="time:timestamp" value="2005-01-17T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="hepatitis B surface antigen confirmation"/>
+			<string key="ACTIVITYCODE" value="63.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="hepatitis B surface antigen confirmation"/>
+			<date key="time:timestamp" value="2005-01-17T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="hepatitis B surface antigen confirmation"/>
+			<string key="ACTIVITYCODE" value="63.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="urine analysis - qualitative"/>
+			<date key="time:timestamp" value="2005-01-17T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="urine analysis - qualitative"/>
+			<string key="ACTIVITYCODE" value="49.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="order rate"/>
+			<date key="time:timestamp" value="2005-01-17T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="order rate"/>
+			<string key="ACTIVITYCODE" value="24.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190021 clinical admission A002"/>
+			<date key="time:timestamp" value="2005-01-17T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190021 clinical admission A002"/>
+			<string key="ACTIVITYCODE" value="29.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190205 Class 3b A205"/>
+			<date key="time:timestamp" value="2005-01-17T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190205 Class 3b A205"/>
+			<string key="ACTIVITYCODE" value="30.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<date key="time:timestamp" value="2005-01-18T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<string key="ACTIVITYCODE" value="28.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-18T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-18T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="urea"/>
+			<date key="time:timestamp" value="2005-01-18T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="urea"/>
+			<string key="ACTIVITYCODE" value="5.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="hemoglobin photoelectric"/>
+			<date key="time:timestamp" value="2005-01-18T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="hemoglobin photoelectric"/>
+			<string key="ACTIVITYCODE" value="6.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="creatinine"/>
+			<date key="time:timestamp" value="2005-01-18T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="creatinine"/>
+			<string key="ACTIVITYCODE" value="7.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="sodium flame photometry"/>
+			<date key="time:timestamp" value="2005-01-18T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="sodium flame photometry"/>
+			<string key="ACTIVITYCODE" value="9.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="potassium potentiometrically"/>
+			<date key="time:timestamp" value="2005-01-18T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="potassium potentiometrically"/>
+			<string key="ACTIVITYCODE" value="10.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="SGOT - Asat kinetic"/>
+			<date key="time:timestamp" value="2005-01-18T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="SGOT - Asat kinetic"/>
+			<string key="ACTIVITYCODE" value="11.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="SGPT - alat kinetic"/>
+			<date key="time:timestamp" value="2005-01-18T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="SGPT - alat kinetic"/>
+			<string key="ACTIVITYCODE" value="12.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="Milk acid dehydrogenase LDH kinetic"/>
+			<date key="time:timestamp" value="2005-01-18T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="Milk acid dehydrogenase LDH kinetic"/>
+			<string key="ACTIVITYCODE" value="13.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="differential count automatically"/>
+			<date key="time:timestamp" value="2005-01-18T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="differential count automatically"/>
+			<string key="ACTIVITYCODE" value="55.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="leukocyte count electronic"/>
+			<date key="time:timestamp" value="2005-01-18T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="leukocyte count electronic"/>
+			<string key="ACTIVITYCODE" value="16.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="platelet count - Electronic"/>
+			<date key="time:timestamp" value="2005-01-18T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="platelet count - Electronic"/>
+			<string key="ACTIVITYCODE" value="17.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="CRP c-reactive protein"/>
+			<date key="time:timestamp" value="2005-01-18T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="CRP c-reactive protein"/>
+			<string key="ACTIVITYCODE" value="47.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="order rate"/>
+			<date key="time:timestamp" value="2005-01-18T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="order rate"/>
+			<string key="ACTIVITYCODE" value="24.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190205 Class 3b A205"/>
+			<date key="time:timestamp" value="2005-01-18T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190205 Class 3b A205"/>
+			<string key="ACTIVITYCODE" value="30.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<date key="time:timestamp" value="2005-01-19T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<string key="ACTIVITYCODE" value="28.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190205 Class 3b A205"/>
+			<date key="time:timestamp" value="2005-01-19T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190205 Class 3b A205"/>
+			<string key="ACTIVITYCODE" value="30.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<date key="time:timestamp" value="2005-01-20T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<string key="ACTIVITYCODE" value="28.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190205 Class 3b A205"/>
+			<date key="time:timestamp" value="2005-01-20T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190205 Class 3b A205"/>
+			<string key="ACTIVITYCODE" value="30.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<date key="time:timestamp" value="2005-01-21T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<string key="ACTIVITYCODE" value="28.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-21T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="order rate"/>
+			<date key="time:timestamp" value="2005-01-21T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="order rate"/>
+			<string key="ACTIVITYCODE" value="24.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190205 Class 3b A205"/>
+			<date key="time:timestamp" value="2005-01-21T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190205 Class 3b A205"/>
+			<string key="ACTIVITYCODE" value="30.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<date key="time:timestamp" value="2005-01-22T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<string key="ACTIVITYCODE" value="28.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190205 Class 3b A205"/>
+			<date key="time:timestamp" value="2005-01-22T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190205 Class 3b A205"/>
+			<string key="ACTIVITYCODE" value="30.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="simulator - use before megavol"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="simulator - use before megavol"/>
+			<string key="ACTIVITYCODE" value="54.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="treatment time - Unit t3 - megavolt"/>
+			<date key="time:timestamp" value="2005-01-31T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="treatment time - Unit t3 - megavolt"/>
+			<string key="ACTIVITYCODE" value="71.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="teletherapy - megavolt photons bestrali"/>
+			<date key="time:timestamp" value="2005-01-31T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="teletherapy - megavolt photons bestrali"/>
+			<string key="ACTIVITYCODE" value="72.0"/>
+		</event>
+		<event>
+			<string key="org:resource" value="artificial"/>
+			<string key="concept:name" value="END"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2005-01-31T09:00:00.001+01:00"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="1"/>
+		<string key="variant" value="Variant 49"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="org:resource" value="artificial"/>
+			<string key="concept:name" value="START"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2005-01-02T08:59:59.999+01:00"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-02T08:59:59.999+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="urea - urgent"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="urea - urgent"/>
+			<string key="ACTIVITYCODE" value="76.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="creatinine - urgent"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="creatinine - urgent"/>
+			<string key="ACTIVITYCODE" value="93.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="sodium - flame photometry - urgent"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="sodium - flame photometry - urgent"/>
+			<string key="ACTIVITYCODE" value="80.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="Potassium flame photometry - urgent"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="Potassium flame photometry - urgent"/>
+			<string key="ACTIVITYCODE" value="83.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="SGPT alat kinetic - urgent"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="SGPT alat kinetic - urgent"/>
+			<string key="ACTIVITYCODE" value="81.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="SGOT Asat kinetic - urgent"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="SGOT Asat kinetic - urgent"/>
+			<string key="ACTIVITYCODE" value="82.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="differential count automatically"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="differential count automatically"/>
+			<string key="ACTIVITYCODE" value="55.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="hemoglobin photoelectric - urgent"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="hemoglobin photoelectric - urgent"/>
+			<string key="ACTIVITYCODE" value="89.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="platelet count - urgent"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="platelet count - urgent"/>
+			<string key="ACTIVITYCODE" value="84.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="international normalized ratio using Thromb"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="international normalized ratio using Thromb"/>
+			<string key="ACTIVITYCODE" value="68.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="leucocytes count-electronic-emergency"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="leucocytes count-electronic-emergency"/>
+			<string key="ACTIVITYCODE" value="86.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="order rate"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="order rate"/>
+			<string key="ACTIVITYCODE" value="24.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<string key="ACTIVITYCODE" value="28.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="urea - urgent"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="urea - urgent"/>
+			<string key="ACTIVITYCODE" value="76.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="creatinine - urgent"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="creatinine - urgent"/>
+			<string key="ACTIVITYCODE" value="93.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="sodium - flame photometry - urgent"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="sodium - flame photometry - urgent"/>
+			<string key="ACTIVITYCODE" value="80.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="Potassium flame photometry - urgent"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="Potassium flame photometry - urgent"/>
+			<string key="ACTIVITYCODE" value="83.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="SGPT alat kinetic - urgent"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="SGPT alat kinetic - urgent"/>
+			<string key="ACTIVITYCODE" value="81.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="SGOT Asat kinetic - urgent"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="SGOT Asat kinetic - urgent"/>
+			<string key="ACTIVITYCODE" value="82.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="differential count automatically"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="differential count automatically"/>
+			<string key="ACTIVITYCODE" value="55.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="hemoglobin photoelectric - urgent"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="hemoglobin photoelectric - urgent"/>
+			<string key="ACTIVITYCODE" value="89.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="platelet count - urgent"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="platelet count - urgent"/>
+			<string key="ACTIVITYCODE" value="84.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="international normalized ratio using Thromb"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="international normalized ratio using Thromb"/>
+			<string key="ACTIVITYCODE" value="68.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="leucocytes count-electronic-emergency"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="leucocytes count-electronic-emergency"/>
+			<string key="ACTIVITYCODE" value="86.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="order rate"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="order rate"/>
+			<string key="ACTIVITYCODE" value="24.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190021 clinical admission A002"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190021 clinical admission A002"/>
+			<string key="ACTIVITYCODE" value="29.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190205 Class 3b A205"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190205 Class 3b A205"/>
+			<string key="ACTIVITYCODE" value="30.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190101 reg-toesl above- A101"/>
+			<date key="time:timestamp" value="2005-01-02T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190101 reg-toesl above- A101"/>
+			<string key="ACTIVITYCODE" value="100.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="First outpatient consultation"/>
+			<date key="time:timestamp" value="2005-01-03T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="First outpatient consultation"/>
+			<string key="ACTIVITYCODE" value="26.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="administrative fee - the first pol"/>
+			<date key="time:timestamp" value="2005-01-03T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="administrative fee - the first pol"/>
+			<string key="ACTIVITYCODE" value="27.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="day care - all spec-beh-kind--rev-"/>
+			<date key="time:timestamp" value="2005-01-03T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="day care - all spec-beh-kind--rev-"/>
+			<string key="ACTIVITYCODE" value="50.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190035 day nursing A007"/>
+			<date key="time:timestamp" value="2005-01-03T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190035 day nursing A007"/>
+			<string key="ACTIVITYCODE" value="53.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<date key="time:timestamp" value="2005-01-03T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<string key="ACTIVITYCODE" value="28.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190205 Class 3b A205"/>
+			<date key="time:timestamp" value="2005-01-03T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190205 Class 3b A205"/>
+			<string key="ACTIVITYCODE" value="30.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190101 reg-toesl above- A101"/>
+			<date key="time:timestamp" value="2005-01-03T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190101 reg-toesl above- A101"/>
+			<string key="ACTIVITYCODE" value="100.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="verlosk--gynaec- short-out card cost"/>
+			<date key="time:timestamp" value="2005-01-06T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="verlosk--gynaec- short-out card cost"/>
+			<string key="ACTIVITYCODE" value="74.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="outpatient follow-up consultation"/>
+			<date key="time:timestamp" value="2005-01-06T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="outpatient follow-up consultation"/>
+			<string key="ACTIVITYCODE" value="70.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="administrative fee - the first pol"/>
+			<date key="time:timestamp" value="2005-01-06T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="administrative fee - the first pol"/>
+			<string key="ACTIVITYCODE" value="27.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<string key="ACTIVITYCODE" value="28.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="urea - urgent"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="urea - urgent"/>
+			<string key="ACTIVITYCODE" value="76.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="creatinine - urgent"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="creatinine - urgent"/>
+			<string key="ACTIVITYCODE" value="93.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="sodium - flame photometry - urgent"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="sodium - flame photometry - urgent"/>
+			<string key="ACTIVITYCODE" value="80.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="Potassium flame photometry - urgent"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="Potassium flame photometry - urgent"/>
+			<string key="ACTIVITYCODE" value="83.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="SGPT alat kinetic - urgent"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="SGPT alat kinetic - urgent"/>
+			<string key="ACTIVITYCODE" value="81.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="SGOT Asat kinetic - urgent"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="SGOT Asat kinetic - urgent"/>
+			<string key="ACTIVITYCODE" value="82.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="differential count automatically"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="differential count automatically"/>
+			<string key="ACTIVITYCODE" value="55.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="hemoglobin photoelectric - urgent"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="hemoglobin photoelectric - urgent"/>
+			<string key="ACTIVITYCODE" value="89.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="platelet count - urgent"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="platelet count - urgent"/>
+			<string key="ACTIVITYCODE" value="84.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="leucocytes count-electronic-emergency"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="leucocytes count-electronic-emergency"/>
+			<string key="ACTIVITYCODE" value="86.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="order rate"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="order rate"/>
+			<string key="ACTIVITYCODE" value="24.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190021 clinical admission A002"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190021 clinical admission A002"/>
+			<string key="ACTIVITYCODE" value="29.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190205 Class 3b A205"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190205 Class 3b A205"/>
+			<string key="ACTIVITYCODE" value="30.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190101 reg-toesl above- A101"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190101 reg-toesl above- A101"/>
+			<string key="ACTIVITYCODE" value="100.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<string key="ACTIVITYCODE" value="28.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="hemoglobin photoelectric"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="hemoglobin photoelectric"/>
+			<string key="ACTIVITYCODE" value="6.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="creatinine"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="creatinine"/>
+			<string key="ACTIVITYCODE" value="7.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="sodium flame photometry"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="sodium flame photometry"/>
+			<string key="ACTIVITYCODE" value="9.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="potassium potentiometrically"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="potassium potentiometrically"/>
+			<string key="ACTIVITYCODE" value="10.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="differential count automatically"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="differential count automatically"/>
+			<string key="ACTIVITYCODE" value="55.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="leukocyte count electronic"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="leukocyte count electronic"/>
+			<string key="ACTIVITYCODE" value="16.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="platelet count - Electronic"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="platelet count - Electronic"/>
+			<string key="ACTIVITYCODE" value="17.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="order rate"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="order rate"/>
+			<string key="ACTIVITYCODE" value="24.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190021 clinical admission A002"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190021 clinical admission A002"/>
+			<string key="ACTIVITYCODE" value="29.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190205 Class 3b A205"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190205 Class 3b A205"/>
+			<string key="ACTIVITYCODE" value="30.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190101 reg-toesl above- A101"/>
+			<date key="time:timestamp" value="2005-01-09T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190101 reg-toesl above- A101"/>
+			<string key="ACTIVITYCODE" value="100.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="outpatient follow-up consultation"/>
+			<date key="time:timestamp" value="2005-01-10T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="outpatient follow-up consultation"/>
+			<string key="ACTIVITYCODE" value="70.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<date key="time:timestamp" value="2005-01-10T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<string key="ACTIVITYCODE" value="28.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190205 Class 3b A205"/>
+			<date key="time:timestamp" value="2005-01-10T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190205 Class 3b A205"/>
+			<string key="ACTIVITYCODE" value="30.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190101 reg-toesl above- A101"/>
+			<date key="time:timestamp" value="2005-01-10T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190101 reg-toesl above- A101"/>
+			<string key="ACTIVITYCODE" value="100.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<date key="time:timestamp" value="2005-01-10T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<string key="ACTIVITYCODE" value="28.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190205 Class 3b A205"/>
+			<date key="time:timestamp" value="2005-01-10T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190205 Class 3b A205"/>
+			<string key="ACTIVITYCODE" value="30.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190101 reg-toesl above- A101"/>
+			<date key="time:timestamp" value="2005-01-10T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190101 reg-toesl above- A101"/>
+			<string key="ACTIVITYCODE" value="100.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-12T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-12T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="urea - urgent"/>
+			<date key="time:timestamp" value="2005-01-12T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="urea - urgent"/>
+			<string key="ACTIVITYCODE" value="76.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="creatinine - urgent"/>
+			<date key="time:timestamp" value="2005-01-12T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="creatinine - urgent"/>
+			<string key="ACTIVITYCODE" value="93.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="sodium - flame photometry - urgent"/>
+			<date key="time:timestamp" value="2005-01-12T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="sodium - flame photometry - urgent"/>
+			<string key="ACTIVITYCODE" value="80.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="Potassium flame photometry - urgent"/>
+			<date key="time:timestamp" value="2005-01-12T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="Potassium flame photometry - urgent"/>
+			<string key="ACTIVITYCODE" value="83.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="differential count automatically"/>
+			<date key="time:timestamp" value="2005-01-12T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="differential count automatically"/>
+			<string key="ACTIVITYCODE" value="55.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="hemoglobin photoelectric - urgent"/>
+			<date key="time:timestamp" value="2005-01-12T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="hemoglobin photoelectric - urgent"/>
+			<string key="ACTIVITYCODE" value="89.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="platelet count - urgent"/>
+			<date key="time:timestamp" value="2005-01-12T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="platelet count - urgent"/>
+			<string key="ACTIVITYCODE" value="84.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="squamous cell carcinoma using eia"/>
+			<date key="time:timestamp" value="2005-01-12T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="squamous cell carcinoma using eia"/>
+			<string key="ACTIVITYCODE" value="33.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="leucocytes count-electronic-emergency"/>
+			<date key="time:timestamp" value="2005-01-12T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="leucocytes count-electronic-emergency"/>
+			<string key="ACTIVITYCODE" value="86.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="order rate"/>
+			<date key="time:timestamp" value="2005-01-12T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="order rate"/>
+			<string key="ACTIVITYCODE" value="24.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="ct abdomen"/>
+			<date key="time:timestamp" value="2005-01-12T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="ct abdomen"/>
+			<string key="ACTIVITYCODE" value="61.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="outpatient follow-up consultation"/>
+			<date key="time:timestamp" value="2005-01-14T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="outpatient follow-up consultation"/>
+			<string key="ACTIVITYCODE" value="70.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="day care - all spec-beh-kind--rev-"/>
+			<date key="time:timestamp" value="2005-01-17T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="day care - all spec-beh-kind--rev-"/>
+			<string key="ACTIVITYCODE" value="50.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190035 day nursing A007"/>
+			<date key="time:timestamp" value="2005-01-17T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190035 day nursing A007"/>
+			<string key="ACTIVITYCODE" value="53.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<date key="time:timestamp" value="2005-01-19T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<string key="ACTIVITYCODE" value="28.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-19T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-19T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-19T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="creatinine - urgent"/>
+			<date key="time:timestamp" value="2005-01-19T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="creatinine - urgent"/>
+			<string key="ACTIVITYCODE" value="93.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="sodium - flame photometry - urgent"/>
+			<date key="time:timestamp" value="2005-01-19T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="sodium - flame photometry - urgent"/>
+			<string key="ACTIVITYCODE" value="80.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="Potassium flame photometry - urgent"/>
+			<date key="time:timestamp" value="2005-01-19T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="Potassium flame photometry - urgent"/>
+			<string key="ACTIVITYCODE" value="83.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="ABO blood group and rhesus factor"/>
+			<date key="time:timestamp" value="2005-01-19T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="ABO blood group and rhesus factor"/>
+			<string key="ACTIVITYCODE" value="14.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="rhesus factor d - Centrifuge method - email"/>
+			<date key="time:timestamp" value="2005-01-19T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="rhesus factor d - Centrifuge method - email"/>
+			<string key="ACTIVITYCODE" value="15.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="differential count automatically"/>
+			<date key="time:timestamp" value="2005-01-19T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="differential count automatically"/>
+			<string key="ACTIVITYCODE" value="55.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="hemoglobin photoelectric - urgent"/>
+			<date key="time:timestamp" value="2005-01-19T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="hemoglobin photoelectric - urgent"/>
+			<string key="ACTIVITYCODE" value="89.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="platelet count - urgent"/>
+			<date key="time:timestamp" value="2005-01-19T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="platelet count - urgent"/>
+			<string key="ACTIVITYCODE" value="84.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="cde phenotyping"/>
+			<date key="time:timestamp" value="2005-01-19T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="cde phenotyping"/>
+			<string key="ACTIVITYCODE" value="36.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="ABO blood group antigens other than rhesu"/>
+			<date key="time:timestamp" value="2005-01-19T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="ABO blood group antigens other than rhesu"/>
+			<string key="ACTIVITYCODE" value="37.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="crossmatch methods- three fully-"/>
+			<date key="time:timestamp" value="2005-01-19T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="crossmatch methods- three fully-"/>
+			<string key="ACTIVITYCODE" value="43.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="crossmatch methods- three fully-"/>
+			<date key="time:timestamp" value="2005-01-19T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="crossmatch methods- three fully-"/>
+			<string key="ACTIVITYCODE" value="43.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="leucocytes count-electronic-emergency"/>
+			<date key="time:timestamp" value="2005-01-19T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="leucocytes count-electronic-emergency"/>
+			<string key="ACTIVITYCODE" value="86.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="red cell antibody screening"/>
+			<date key="time:timestamp" value="2005-01-19T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="red cell antibody screening"/>
+			<string key="ACTIVITYCODE" value="22.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="order rate"/>
+			<date key="time:timestamp" value="2005-01-19T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="order rate"/>
+			<string key="ACTIVITYCODE" value="24.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190021 clinical admission A002"/>
+			<date key="time:timestamp" value="2005-01-19T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190021 clinical admission A002"/>
+			<string key="ACTIVITYCODE" value="29.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190205 Class 3b A205"/>
+			<date key="time:timestamp" value="2005-01-19T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190205 Class 3b A205"/>
+			<string key="ACTIVITYCODE" value="30.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190101 reg-toesl above- A101"/>
+			<date key="time:timestamp" value="2005-01-19T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190101 reg-toesl above- A101"/>
+			<string key="ACTIVITYCODE" value="100.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="filtered red cells"/>
+			<date key="time:timestamp" value="2005-01-19T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="filtered red cells"/>
+			<string key="ACTIVITYCODE" value="46.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="filtered red cells"/>
+			<date key="time:timestamp" value="2005-01-19T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="filtered red cells"/>
+			<string key="ACTIVITYCODE" value="46.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<date key="time:timestamp" value="2005-01-20T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<string key="ACTIVITYCODE" value="28.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="crossmatch methods- three fully-"/>
+			<date key="time:timestamp" value="2005-01-20T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="crossmatch methods- three fully-"/>
+			<string key="ACTIVITYCODE" value="43.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="crossmatch methods- three fully-"/>
+			<date key="time:timestamp" value="2005-01-20T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="crossmatch methods- three fully-"/>
+			<string key="ACTIVITYCODE" value="43.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190205 Class 3b A205"/>
+			<date key="time:timestamp" value="2005-01-20T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190205 Class 3b A205"/>
+			<string key="ACTIVITYCODE" value="30.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190101 reg-toesl above- A101"/>
+			<date key="time:timestamp" value="2005-01-20T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190101 reg-toesl above- A101"/>
+			<string key="ACTIVITYCODE" value="100.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="filtered red cells"/>
+			<date key="time:timestamp" value="2005-01-20T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="filtered red cells"/>
+			<string key="ACTIVITYCODE" value="46.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="filtered red cells"/>
+			<date key="time:timestamp" value="2005-01-20T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="filtered red cells"/>
+			<string key="ACTIVITYCODE" value="46.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="verlosk--gynaec- short-out card cost"/>
+			<date key="time:timestamp" value="2005-01-21T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="verlosk--gynaec- short-out card cost"/>
+			<string key="ACTIVITYCODE" value="74.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="First outpatient consultation"/>
+			<date key="time:timestamp" value="2005-01-21T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="First outpatient consultation"/>
+			<string key="ACTIVITYCODE" value="26.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<string key="ACTIVITYCODE" value="28.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="urea - urgent"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="urea - urgent"/>
+			<string key="ACTIVITYCODE" value="76.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="creatinine - urgent"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="creatinine - urgent"/>
+			<string key="ACTIVITYCODE" value="93.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="sodium - flame photometry - urgent"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="sodium - flame photometry - urgent"/>
+			<string key="ACTIVITYCODE" value="80.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="Potassium flame photometry - urgent"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="Potassium flame photometry - urgent"/>
+			<string key="ACTIVITYCODE" value="83.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="SGPT alat kinetic - urgent"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="SGPT alat kinetic - urgent"/>
+			<string key="ACTIVITYCODE" value="81.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="SGOT Asat kinetic - urgent"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="SGOT Asat kinetic - urgent"/>
+			<string key="ACTIVITYCODE" value="82.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="bacteriological examination of breeding nie"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="bacteriological examination of breeding nie"/>
+			<string key="ACTIVITYCODE" value="52.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="bacteriological examination of breeding nie"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="bacteriological examination of breeding nie"/>
+			<string key="ACTIVITYCODE" value="52.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="resistance measurements - 5 provisions"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="resistance measurements - 5 provisions"/>
+			<string key="ACTIVITYCODE" value="62.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="ABO blood group and rhesus factor"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="ABO blood group and rhesus factor"/>
+			<string key="ACTIVITYCODE" value="14.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="rhesus factor d - Centrifuge method - email"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="rhesus factor d - Centrifuge method - email"/>
+			<string key="ACTIVITYCODE" value="15.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="differential count automatically"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="differential count automatically"/>
+			<string key="ACTIVITYCODE" value="55.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="hemoglobin photoelectric - urgent"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="hemoglobin photoelectric - urgent"/>
+			<string key="ACTIVITYCODE" value="89.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="platelet count - urgent"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="platelet count - urgent"/>
+			<string key="ACTIVITYCODE" value="84.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="crossmatch methods- three fully-"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="crossmatch methods- three fully-"/>
+			<string key="ACTIVITYCODE" value="43.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="crossmatch methods- three fully-"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="crossmatch methods- three fully-"/>
+			<string key="ACTIVITYCODE" value="43.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="crossmatch methods- three fully-"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="crossmatch methods- three fully-"/>
+			<string key="ACTIVITYCODE" value="43.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="hepatitis B surface antigen confirmation"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="hepatitis B surface antigen confirmation"/>
+			<string key="ACTIVITYCODE" value="63.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="leucocytes count-electronic-emergency"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="leucocytes count-electronic-emergency"/>
+			<string key="ACTIVITYCODE" value="86.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="urine analysis - qualitative"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="urine analysis - qualitative"/>
+			<string key="ACTIVITYCODE" value="49.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="red cell antibody screening"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="red cell antibody screening"/>
+			<string key="ACTIVITYCODE" value="22.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="order rate"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="order rate"/>
+			<string key="ACTIVITYCODE" value="24.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="order rate"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="order rate"/>
+			<string key="ACTIVITYCODE" value="24.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="order rate"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="order rate"/>
+			<string key="ACTIVITYCODE" value="24.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="order rate"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="order rate"/>
+			<string key="ACTIVITYCODE" value="24.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190021 clinical admission A002"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190021 clinical admission A002"/>
+			<string key="ACTIVITYCODE" value="29.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190205 Class 3b A205"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190205 Class 3b A205"/>
+			<string key="ACTIVITYCODE" value="30.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190101 reg-toesl above- A101"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190101 reg-toesl above- A101"/>
+			<string key="ACTIVITYCODE" value="100.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="filtered red cells"/>
+			<date key="time:timestamp" value="2005-01-23T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="filtered red cells"/>
+			<string key="ACTIVITYCODE" value="46.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="urea - urgent"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="urea - urgent"/>
+			<string key="ACTIVITYCODE" value="76.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="creatinine - urgent"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="creatinine - urgent"/>
+			<string key="ACTIVITYCODE" value="93.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="sodium - flame photometry - urgent"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="sodium - flame photometry - urgent"/>
+			<string key="ACTIVITYCODE" value="80.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="Potassium flame photometry - urgent"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="Potassium flame photometry - urgent"/>
+			<string key="ACTIVITYCODE" value="83.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="differential count automatically"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="differential count automatically"/>
+			<string key="ACTIVITYCODE" value="55.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="hemoglobin photoelectric - urgent"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="hemoglobin photoelectric - urgent"/>
+			<string key="ACTIVITYCODE" value="89.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="platelet count - urgent"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="platelet count - urgent"/>
+			<string key="ACTIVITYCODE" value="84.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="leucocytes count-electronic-emergency"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="leucocytes count-electronic-emergency"/>
+			<string key="ACTIVITYCODE" value="86.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="order rate"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="order rate"/>
+			<string key="ACTIVITYCODE" value="24.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="outpatient follow-up consultation"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="outpatient follow-up consultation"/>
+			<string key="ACTIVITYCODE" value="70.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<string key="ACTIVITYCODE" value="28.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="sediment"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="sediment"/>
+			<string key="ACTIVITYCODE" value="48.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="bacteriological examination of breeding nie"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="bacteriological examination of breeding nie"/>
+			<string key="ACTIVITYCODE" value="52.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="resistance measurements - 5 provisions"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="resistance measurements - 5 provisions"/>
+			<string key="ACTIVITYCODE" value="62.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="hepatitis B surface antigen confirmation"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="hepatitis B surface antigen confirmation"/>
+			<string key="ACTIVITYCODE" value="63.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="urine analysis - qualitative"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="urine analysis - qualitative"/>
+			<string key="ACTIVITYCODE" value="49.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="order rate"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="order rate"/>
+			<string key="ACTIVITYCODE" value="24.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="order rate"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="order rate"/>
+			<string key="ACTIVITYCODE" value="24.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190205 Class 3b A205"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190205 Class 3b A205"/>
+			<string key="ACTIVITYCODE" value="30.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190101 reg-toesl above- A101"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190101 reg-toesl above- A101"/>
+			<string key="ACTIVITYCODE" value="100.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="filtered red cells"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="filtered red cells"/>
+			<string key="ACTIVITYCODE" value="46.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="filtered red cells"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="filtered red cells"/>
+			<string key="ACTIVITYCODE" value="46.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="outpatient follow-up consultation"/>
+			<date key="time:timestamp" value="2005-01-25T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="outpatient follow-up consultation"/>
+			<string key="ACTIVITYCODE" value="70.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<date key="time:timestamp" value="2005-01-26T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<string key="ACTIVITYCODE" value="28.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-26T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-26T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-26T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="bacteriological examination of breeding nie"/>
+			<date key="time:timestamp" value="2005-01-26T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="bacteriological examination of breeding nie"/>
+			<string key="ACTIVITYCODE" value="52.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="leucocytes count-electronic-emergency"/>
+			<date key="time:timestamp" value="2005-01-26T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="leucocytes count-electronic-emergency"/>
+			<string key="ACTIVITYCODE" value="86.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="order rate"/>
+			<date key="time:timestamp" value="2005-01-26T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="order rate"/>
+			<string key="ACTIVITYCODE" value="24.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="order rate"/>
+			<date key="time:timestamp" value="2005-01-26T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="order rate"/>
+			<string key="ACTIVITYCODE" value="24.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190021 clinical admission A002"/>
+			<date key="time:timestamp" value="2005-01-26T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190021 clinical admission A002"/>
+			<string key="ACTIVITYCODE" value="29.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190205 Class 3b A205"/>
+			<date key="time:timestamp" value="2005-01-26T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190205 Class 3b A205"/>
+			<string key="ACTIVITYCODE" value="30.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190101 reg-toesl above- A101"/>
+			<date key="time:timestamp" value="2005-01-26T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190101 reg-toesl above- A101"/>
+			<string key="ACTIVITYCODE" value="100.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<date key="time:timestamp" value="2005-01-27T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="demurrage - all spec-beh-kinderg--Reval-"/>
+			<string key="ACTIVITYCODE" value="28.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190205 Class 3b A205"/>
+			<date key="time:timestamp" value="2005-01-27T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190205 Class 3b A205"/>
+			<string key="ACTIVITYCODE" value="30.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="190101 reg-toesl above- A101"/>
+			<date key="time:timestamp" value="2005-01-27T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="190101 reg-toesl above- A101"/>
+			<string key="ACTIVITYCODE" value="100.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-29T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2005-01-29T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="creatinine - urgent"/>
+			<date key="time:timestamp" value="2005-01-29T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="creatinine - urgent"/>
+			<string key="ACTIVITYCODE" value="93.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="sodium - flame photometry - urgent"/>
+			<date key="time:timestamp" value="2005-01-29T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="sodium - flame photometry - urgent"/>
+			<string key="ACTIVITYCODE" value="80.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="Potassium flame photometry - urgent"/>
+			<date key="time:timestamp" value="2005-01-29T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="Potassium flame photometry - urgent"/>
+			<string key="ACTIVITYCODE" value="83.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="differential count automatically"/>
+			<date key="time:timestamp" value="2005-01-29T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="differential count automatically"/>
+			<string key="ACTIVITYCODE" value="55.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="hemoglobin photoelectric - urgent"/>
+			<date key="time:timestamp" value="2005-01-29T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="hemoglobin photoelectric - urgent"/>
+			<string key="ACTIVITYCODE" value="89.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="platelet count - urgent"/>
+			<date key="time:timestamp" value="2005-01-29T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="platelet count - urgent"/>
+			<string key="ACTIVITYCODE" value="84.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="leucocytes count-electronic-emergency"/>
+			<date key="time:timestamp" value="2005-01-29T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="leucocytes count-electronic-emergency"/>
+			<string key="ACTIVITYCODE" value="86.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="order rate"/>
+			<date key="time:timestamp" value="2005-01-29T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="order rate"/>
+			<string key="ACTIVITYCODE" value="24.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="outpatient follow-up consultation"/>
+			<date key="time:timestamp" value="2005-01-29T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="outpatient follow-up consultation"/>
+			<string key="ACTIVITYCODE" value="70.0"/>
+		</event>
+		<event>
+			<string key="org:resource" value="artificial"/>
+			<string key="concept:name" value="END"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2005-01-29T09:00:00.001+01:00"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2"/>
+		<string key="variant" value="Variant 50"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="org:resource" value="artificial"/>
+			<string key="concept:name" value="START"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2005-01-03T08:59:59.999+01:00"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="outpatient follow-up consultation"/>
+			<date key="time:timestamp" value="2005-01-03T08:59:59.999+01:00"/>
+			<string key="ACTIVITY" value="outpatient follow-up consultation"/>
+			<string key="ACTIVITYCODE" value="70.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="outpatient follow-up consultation"/>
+			<date key="time:timestamp" value="2005-01-07T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="outpatient follow-up consultation"/>
+			<string key="ACTIVITYCODE" value="70.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="outpatient follow-up consultation"/>
+			<date key="time:timestamp" value="2005-01-07T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="outpatient follow-up consultation"/>
+			<string key="ACTIVITYCODE" value="70.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="outpatient follow-up consultation"/>
+			<date key="time:timestamp" value="2005-01-14T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="outpatient follow-up consultation"/>
+			<string key="ACTIVITYCODE" value="70.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="outpatient follow-up consultation"/>
+			<date key="time:timestamp" value="2005-01-21T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="outpatient follow-up consultation"/>
+			<string key="ACTIVITYCODE" value="70.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="outpatient follow-up consultation"/>
+			<date key="time:timestamp" value="2005-01-21T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="outpatient follow-up consultation"/>
+			<string key="ACTIVITYCODE" value="70.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="outpatient follow-up consultation"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="outpatient follow-up consultation"/>
+			<string key="ACTIVITYCODE" value="70.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="administrative fee - the first pol"/>
+			<date key="time:timestamp" value="2005-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="administrative fee - the first pol"/>
+			<string key="ACTIVITYCODE" value="27.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="outpatient follow-up consultation"/>
+			<date key="time:timestamp" value="2005-01-31T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="outpatient follow-up consultation"/>
+			<string key="ACTIVITYCODE" value="70.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="assumption laboratory"/>
+			<date key="time:timestamp" value="2006-01-04T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="assumption laboratory"/>
+			<string key="ACTIVITYCODE" value="1.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="squamous cell carcinoma using eia"/>
+			<date key="time:timestamp" value="2006-01-04T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="squamous cell carcinoma using eia"/>
+			<string key="ACTIVITYCODE" value="33.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="ca-125 using meia"/>
+			<date key="time:timestamp" value="2006-01-04T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="ca-125 using meia"/>
+			<string key="ACTIVITYCODE" value="97.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="order rate"/>
+			<date key="time:timestamp" value="2006-01-04T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="order rate"/>
+			<string key="ACTIVITYCODE" value="24.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="outpatient follow-up consultation"/>
+			<date key="time:timestamp" value="2006-01-04T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="outpatient follow-up consultation"/>
+			<string key="ACTIVITYCODE" value="70.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="outpatient follow-up consultation"/>
+			<date key="time:timestamp" value="2006-01-12T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="outpatient follow-up consultation"/>
+			<string key="ACTIVITYCODE" value="70.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="administrative fee - the first pol"/>
+			<date key="time:timestamp" value="2006-01-12T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="administrative fee - the first pol"/>
+			<string key="ACTIVITYCODE" value="27.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="ct abdomen"/>
+			<date key="time:timestamp" value="2006-01-12T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="ct abdomen"/>
+			<string key="ACTIVITYCODE" value="61.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="telephone consultation"/>
+			<date key="time:timestamp" value="2006-01-18T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="telephone consultation"/>
+			<string key="ACTIVITYCODE" value="79.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="outpatient follow-up consultation"/>
+			<date key="time:timestamp" value="2006-01-24T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="outpatient follow-up consultation"/>
+			<string key="ACTIVITYCODE" value="70.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="outpatient follow-up consultation"/>
+			<date key="time:timestamp" value="2007-01-01T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="outpatient follow-up consultation"/>
+			<string key="ACTIVITYCODE" value="70.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="administrative fee - the first pol"/>
+			<date key="time:timestamp" value="2007-01-01T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="administrative fee - the first pol"/>
+			<string key="ACTIVITYCODE" value="27.0"/>
+		</event>
+		<event>
+			<string key="LABEL" value="1"/>
+			<string key="concept:name" value="telephone consultation"/>
+			<date key="time:timestamp" value="2007-01-22T09:00:00.000+01:00"/>
+			<string key="ACTIVITY" value="telephone consultation"/>
+			<string key="ACTIVITYCODE" value="79.0"/>
+		</event>
+		<event>
+			<string key="org:resource" value="artificial"/>
+			<string key="concept:name" value="END"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="2007-01-22T09:00:00.001+01:00"/>
+		</event>
+	</trace>
+</log>
